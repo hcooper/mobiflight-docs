@@ -22,7 +22,7 @@ For information on how many encoders can be connected to a board, see the [board
 
 The most popular encoders are based on the `EC11` design and include an integrated push button. Single encoders can be purchased as a bare encoder or with a breakout board attached.
 
-Dual encoders are typically only available as a bare encoder, but can be purchased with a breakout board from the [MobiFlight Shop](https://shop.mobiflight.com/product/dual-encoder-bundle).
+Dual encoders have two concentric knobs and are often used to tune radio frequencies, with the outer knob adjusting the MHz and the inner knob adjusting the kHz. They are typically only available as a bare encoder, but can be purchased with a breakout board from the [MobiFlight Shop](https://shop.mobiflight.com/product/dual-encoder-bundle).
 
 > [!TIP]
 > Encoders are available with different levels of detent torque, which changes how they feel to turn. Low-torque encoders spin freely with light clicks, while high-torque encoders, such as the Bourns `PEC11H` series, have a firmer, more deliberate click that can feel closer to the knobs in a real aircraft.

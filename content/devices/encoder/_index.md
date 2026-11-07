@@ -24,6 +24,9 @@ The most popular encoders are based on the `EC11` design and include an integrat
 
 Dual encoders are typically only available as a bare encoder, but can be purchased with a breakout board from the [MobiFlight Shop](https://shop.mobiflight.com/product/dual-encoder-bundle).
 
+> [!TIP]
+> Encoders are available with different levels of detent torque, which changes how they feel to turn. Low-torque encoders spin freely with light clicks, while high-torque encoders, such as the Bourns `PEC11H` series, have a firmer, more deliberate click that can feel closer to the knobs in a real aircraft.
+
 ## Additional resources
 
 - [Using a single encoder to tune COM1](/guides/single-encoder-com-tuning/)
